@@ -29,7 +29,7 @@ export default function Board() {
        status = "Winner is : " + winner;
      }
   else{
-      status = "Next playe to move : " + (xIsNext? "X" : "O");
+      status = "Next player to move : " + (xIsNext? "X" : "O");
      
   }
 
